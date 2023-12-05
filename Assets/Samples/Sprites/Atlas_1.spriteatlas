@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: aceb066f34a7c194e98f1cd097b4704e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: dc738412022b9234a80470ad47e0802c, type: 3}
+  - {fileID: 21300000, guid: 26507ad21b95249499e3e97de60ef46b, type: 3}
+  - {fileID: 21300000, guid: 31aeca75af3e0d14c89cdb7522a333f3, type: 3}
+  - {fileID: 21300000, guid: 8e5a36184639b144fa27f2728d1424c3, type: 3}
+  - {fileID: 21300000, guid: 028c4ccb7aa1d2e4e8da45693a3798af, type: 3}
+  - {fileID: 21300000, guid: d31b196ceaa9f034394ea1153830555a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - b0bdd40dd905d6dc3f69b9494b70f3b4d1e64c1df71696c16b07e8480ef8cba2
+  - hq720 1
+  - Kronii_Portrait
+  - 3a9f0916b00a4024ad3f06afc1eb5a7a851c7eb7198eab1f59846b6d98530160
+  - 51b7aad5d401d61e15a1bbad68ef68b0b67ad51a9a5b66925936136dd0c53e62
+  - 9b59d7f6351d9a6860563c3c800cd8f375ece40d0843015dd203cc554ec9a20a
+  m_RenderDataMap: {}
+  m_Tag: Atlas_1
+  m_IsVariant: 0
